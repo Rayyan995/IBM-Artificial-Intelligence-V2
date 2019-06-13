@@ -60,6 +60,7 @@ For years, the challenging goal of AI has been developing computer systems that 
 AI research uses techniques from many fields, such as linguistics, economics, and psychology. These techniques are used in applications, such as control systems, natural language processing, facial recognition, speech recognition, business analytics, pattern matching, and data mining.
 
 
+<<<<<<< HEAD
 <hr /> 
 
 **Module Three**
@@ -68,3 +69,27 @@ The three eras of computing
 To understand the future of AI, placing it in the historical context is important. To date, two distinct eras of computing have occurred: the tabulating era and the programming era. We are entering the third and most transformational era in computing’s evolution, the AI computing era (also known as the cognitive era).
 
 Figure 1 shows the timeline for the three eras of computing.
+=======
+**Module Four**
+* The three eras of computing [`show IBM document`](https://developer.ibm.com/africa/skills/artificial-intelligence-v2/course=begin#30646)
+
+
+**Module Fifth**
+* The three eras of computing [`show IBM document`](https://developer.ibm.com/africa/skills/artificial-intelligence-v2/?course=begin#30647)
+
+**Module Sixth**
+* Artificial intelligence types and approaches [`show IBM document`](https://developer.ibm.com/africa/skills/artificial-intelligence-v2/?course=begin#30647)
+
+**Module Seventh**
+* Evolution of artificial intelligence types
+ [`show IBM document`](https://developer.ibm.com/africa/skills/artificial-intelligence-v2/?course=begin#30648)
+ 
+ * **Facial Recognition**
+ is technology that uses several points of person's face to imporove accuracy of identification
+ 
+ * **AI** is the science of simulating human thinking
+ 
+ **Module Sixth**
+* Artificial intelligence types and approaches [`show IBM document`](https://developer.ibm.com/africa/skills/artificial-intelligence-v2/?course=begin#30647)
+
+>>>>>>> 68b0887fa585bbc5d23721db0a7e1a139f0c3835
