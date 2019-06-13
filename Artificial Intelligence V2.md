@@ -58,3 +58,13 @@ AI is a sub field of computer science that aims at building computer systems tha
 For years, the challenging goal of AI has been developing computer systems that equal or exceed human intelligence. AI-based machines are intended to perceive their environment and take actions that optimize their level of success.
 
 AI research uses techniques from many fields, such as linguistics, economics, and psychology. These techniques are used in applications, such as control systems, natural language processing, facial recognition, speech recognition, business analytics, pattern matching, and data mining.
+
+
+<hr /> 
+
+**Module Three**
+
+The three eras of computing
+To understand the future of AI, placing it in the historical context is important. To date, two distinct eras of computing have occurred: the tabulating era and the programming era. We are entering the third and most transformational era in computing’s evolution, the AI computing era (also known as the cognitive era).
+
+Figure 1 shows the timeline for the three eras of computing.
