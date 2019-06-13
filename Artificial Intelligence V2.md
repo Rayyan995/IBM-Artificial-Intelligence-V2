@@ -58,3 +58,27 @@ AI is a sub field of computer science that aims at building computer systems tha
 For years, the challenging goal of AI has been developing computer systems that equal or exceed human intelligence. AI-based machines are intended to perceive their environment and take actions that optimize their level of success.
 
 AI research uses techniques from many fields, such as linguistics, economics, and psychology. These techniques are used in applications, such as control systems, natural language processing, facial recognition, speech recognition, business analytics, pattern matching, and data mining.
+
+
+**Module Four**
+* The three eras of computing [`show IBM document`](https://developer.ibm.com/africa/skills/artificial-intelligence-v2/course=begin#30646)
+
+
+**Module Fifth**
+* The three eras of computing [`show IBM document`](https://developer.ibm.com/africa/skills/artificial-intelligence-v2/?course=begin#30647)
+
+**Module Sixth**
+* Artificial intelligence types and approaches [`show IBM document`](https://developer.ibm.com/africa/skills/artificial-intelligence-v2/?course=begin#30647)
+
+**Module Seventh**
+* Evolution of artificial intelligence types
+ [`show IBM document`](https://developer.ibm.com/africa/skills/artificial-intelligence-v2/?course=begin#30648)
+ 
+ * **Facial Recognition**
+ is technology that uses several points of person's face to imporove accuracy of identification
+ 
+ * **AI** is the science of simulating human thinking
+ 
+ **Module Sixth**
+* Artificial intelligence types and approaches [`show IBM document`](https://developer.ibm.com/africa/skills/artificial-intelligence-v2/?course=begin#30647)
+
